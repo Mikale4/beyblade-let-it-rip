@@ -1,0 +1,11 @@
+# Only the playable game goes in the repository: the page and its sound effects.
+# Everything else stays local: the music (too big to upload), backups, references, renders, the dev tools and lab pages.
+/*
+!/index.html
+!/README.md
+!/.gitignore
+!/assets/
+/assets/*
+!/assets/audio/
+/assets/audio/*
+!/assets/audio/sfx/
